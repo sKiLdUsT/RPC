@@ -523,7 +523,7 @@ class RPCClient extends EventEmitter {
       pid,
       activity: {
         state: args.state,
-        type: type,
+        type,
         details: args.details,
         timestamps,
         assets,

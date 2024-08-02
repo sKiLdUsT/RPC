@@ -178,10 +178,8 @@ exports.RelationshipTypes = {
 };
 
 exports.ActivityTypes = {
-  PLAYING:	0,
-  STREAMING:	1,
-  LISTENING:	2,
-  WATCHING:	3,
-  CUSTOM:	4,
-  COMPETING: 5
+  PLAYING: 0,
+  LISTENING: 2,
+  WATCHING: 3,
+  COMPETING: 5,
 }
